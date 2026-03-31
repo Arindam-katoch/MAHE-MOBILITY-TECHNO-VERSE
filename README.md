@@ -87,7 +87,7 @@ python predict.py
 | Drivable Class IoU | ~87.5% |
 | Non-drivable Class IoU | ~82.8% |
 | Model Parameters | 1.1M |
-| FPS (GPU) | 25-30 |
+| FPS (GPU) | 70+ |
 | Inference Time | 33-40 ms |
 
 ### 🔧 Technical Innovations
@@ -215,7 +215,7 @@ Predictions + Visualizations
 ### 🏆 Achievements
 ✅ Lightweight architecture (1.1M params vs 135M+ for ResNet)  
 ✅ Competitive accuracy (0.8516 mIoU on BDD100K)  
-✅ Real-time performance (30 FPS on GPU)  
+✅ Real-time performance (70 FPS on GPU)  
 ✅ Multi-sensor fusion capability  
 ✅ Complete data-to-deployment pipeline  
 ✅ Research-backed methodology  
