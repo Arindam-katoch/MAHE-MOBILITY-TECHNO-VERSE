@@ -1,11 +1,22 @@
-Copyright © 2026 Arindam Sushil Katoch. All Rights Reserved.
+                    PROPRIETARY LICENSE - ALL RIGHTS RESERVED
+                          Copyright © 2026 Arindam Sushil Katoch
 
-The code, models, weights, documentation, and any other materials in this repository 
-are the exclusive intellectual property of Arindam Sushil Katoch .
+Project: Road Segmentation Model for Autonomous Vehicles (mIoU 0.86)
+Author: Arindam Sushil Katoch 
 
-No part of this repository may be copied, modified, distributed, used in any form, 
-or presented as someone else's work (including for resumes, portfolios, or LinkedIn) 
-without explicit prior written permission from the author.
+The code, model architecture, trained weights, datasets, documentation,
+inference scripts, notebooks, and any other materials in this repository
+are the exclusive intellectual property of Arindam Sushil Katoch.
 
-This is NOT an open-source project. All rights are reserved.
-Unauthorized use will be considered copyright infringement.
+This is NOT an open-source project. All rights are strictly reserved.
+
+NO ONE is allowed to:
+• Copy, modify, distribute, or use any part of this work
+• Upload it to GitHub, LinkedIn, resumes, portfolios, or any public platform
+• Present it as their own work or as team work
+• Use it for commercial, educational, or personal purposes
+
+Any violation will be treated as copyright infringement under the Indian Copyright Act, 1957
+and will be pursued legally to the fullest extent possible.
+
+Unauthorized use, reproduction, or claim of authorship is strictly prohibited.
