@@ -14,7 +14,7 @@ Supports 3-channel RGB and 5-channel (RGB+LiDAR+Radar) inputs.
 ```
 # Drivable Road Segmentation for Autonomous Vehicles
 
-**Solely developed by Arindam Sushil Katoch **  
+** Developed by Arindam Sushil Katoch **  
 This project was created for [MAHE-MOBILITY CHALLENGE/2026] as a team submission.  
 **I built the entire model, training pipeline, data preprocessing, evaluation, and code .**
 ---
