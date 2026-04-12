@@ -27,7 +27,7 @@ Real-time semantic segmentation model that distinguishes between drivable and no
 ### ⚡ Highlights
 - **0.8516 mIoU** on BDD100K validation set
 - **~1.1M parameters** - 125× smaller than ResNet50, optimized for embedded/edge deployment
-- **25-30 FPS** inference speed on GPU
+- **70+ FPS** inference speed on GPU
 - **Multi-stage training pipeline**: nuScenes base training → BDD100K fine-tuning
 - **Advanced loss functions**: Weighted BCE + Dice + Sobel boundary loss
 - **Multi-sensor support**: RGB-only or RGB+LiDAR+Radar with intelligent weight surgery
